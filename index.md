@@ -4,7 +4,7 @@ Kaapelitarrojen tulostaminen työmaalla voi olla hidasta ja melko puuduttavaa pu
 
 Tavoitteena oli toteuttaa käytännön työmaatarpeeseen sopiva työkalu, jolla tarralistojen tulostaminen olisi nopeampaa ja vaivattomampaa kuin tunnusten naputtelu yksitellen tarratulostimen omalla käyttöliittymällä.
 
-## Päädemo: valmis lista tulostukseen
+## Tarralistan haku ja tulostus
 
 Alla olevassa demossa näkyy sovelluksen tyypillisin käyttötapaus omissa työtehtävissäni: oikea tarralista haetaan sovelluksesta, tulostus käynnistetään ja tulostuksen edetessä valmiita tarroja voidaan jo asettaa kaapeleiden merkintätaskuihin.
 
