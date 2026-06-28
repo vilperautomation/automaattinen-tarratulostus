@@ -10,7 +10,16 @@ Alla olevassa demossa näkyy sovelluksen tyypillisin käyttötapaus omissa työt
 
 Käytännössä tulostuksen aloittaminen voi olla hyvin nopeaa. Usein riittää, että hakukenttään kirjoitetaan esimerkiksi listan tunnuksen loppunumerot ja painetaan tulostuspainiketta. Videolla työnkulku näytetään tavallista rauhallisemmin, jotta vaiheet ja sovelluksen ulkoasu erottuvat selvästi.
 
-[Video tähän tai upotus]
+<div style="max-width:360px; margin: 1rem auto;">
+  <iframe
+    width="360"
+    height="640"
+    src="https://www.youtube.com/embed/owtXGNnSl0o"
+    title="Automaattinen tarratulostus - listan haku ja tulostus"
+    frameborder="0"
+    allowfullscreen>
+  </iframe>
+</div>
 
 ## Ohjelman yleisesittely
 
