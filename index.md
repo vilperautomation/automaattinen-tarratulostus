@@ -6,10 +6,9 @@ Tavoitteena oli toteuttaa käytännön työmaatarpeeseen sopiva työkalu, jolla 
 
 ## Päädemo: valmis lista tulostukseen
 
-Alla olevassa demossa näkyy tyypillisin käyttötapaus:
-- valmis tarralista avataan sovelluksessa
-- tarvittavat rivit tarkistetaan
-- tarrat tulostetaan Brother-tarratulostimella
+Alla olevassa demossa näkyy sovelluksen tyypillisin käyttötapaus omissa työtehtävissäni: oikea tarralista haetaan sovelluksesta, tulostus käynnistetään ja tulostuksen edetessä valmiita tarroja voidaan jo asettaa kaapeleiden merkintätaskuihin.
+
+Käytännössä tulostuksen aloittaminen voi olla hyvin nopeaa. Usein riittää, että hakukenttään kirjoitetaan esimerkiksi listan tunnuksen loppunumerot ja painetaan tulostuspainiketta. Videolla työnkulku näytetään tavallista rauhallisemmin, jotta vaiheet ja sovelluksen ulkoasu erottuvat selvästi.
 
 [Video tähän tai upotus]
 
