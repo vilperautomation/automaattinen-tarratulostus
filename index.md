@@ -21,10 +21,10 @@ Käytännössä tulostuksen aloittaminen voi olla hyvin nopeaa. Usein riittää,
   </iframe>
 </div>
 
-## Sovelluksen ominaisuudet
+## Sovelluksen toiminnot ja käyttöliittymä
 
+Sovellus tukee tarralistojen tuontia, muokkausta ja tulostamista eri käyttötapoihin. Alla oleva video esittelee tarkemmin sovelluksen toimintoja ja käyttöliittymää:
 
-Sovellus tukee tarralistojen tuontia, muokkausta ja tulostamista eri käyttötapoihin. Alla oleva video esittelee tarkemmin sovelluksen toimintoja:
 [Video tähän tai upotus]
 
 ### Ominaisuudet
