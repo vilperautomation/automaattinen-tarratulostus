@@ -1,6 +1,6 @@
 # Automaattinen tarratulostus kaapelimerkintöihin
 
-Kaapelitarrojen tulostaminen työmaalla voi olla hidasta ja melko puuduttavaa puuhaa, jos tunnukset naputellaan yksitellen tarratulostimeen. Tämän projektin tavoitteena oli nopeuttaa tätä työvaihetta tuomalla valmiit tarralistat sovellukseen, tarkistamalla ja muokkaamalla niitä tarvittaessa sekä tulostamalla tarrat suoraan puhelimesta tarratulostimelle.
+Kaapelitarrojen tulostaminen työmaalla voi olla hidasta ja melko puuduttavaa puuhaa, jos tunnukset naputellaan yksitellen tarratulostimeen. Tästä sain alkukipinän sovellukselle, jossa tarrat voidaan tulostaa valmiiden tarralistojen pohjalta suoraan puhelimesta tarratulostimelle.
 
 Tavoitteena oli toteuttaa käytännön työmaatarpeeseen sopiva työkalu, jolla tarralistojen tulostaminen olisi nopeampaa ja vaivattomampaa kuin tunnusten naputtelu yksitellen tarratulostimen omalla käyttöliittymällä.
 
