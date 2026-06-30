@@ -1,4 +1,4 @@
-Kaapelitarrojen tulostaminen työmaalla voi olla hidasta ja melko puuduttavaa puuhaa, jos tunnukset naputellaan yksitellen tarratulostimeen. Tästä sain alkukipinän sovellukselle, jossa tarrat voidaan tulostaa valmiiden tarralistojen pohjalta suoraan puhelimesta tarratulostimelle.
+Kaapelitarrojen tulostaminen työmaalla voi olla hidasta ja melko puuduttavaa puuhaa, jos tunnukset naputellaan yksitellen tarratulostimeen. Tästä syntyi ajatus puhelin-/tablettisovelluksesta, jossa tietyn työvaiheen tarrat voidaan hakea listana ja lähettää tulostukseen yhdellä painalluksella.
 
 Tavoitteena oli toteuttaa käytännön työmaatarpeeseen sopiva työkalu, jolla tarralistojen tulostaminen olisi nopeampaa ja vaivattomampaa kuin tunnusten naputtelu yksitellen tarratulostimen omalla käyttöliittymällä.
 
@@ -83,4 +83,4 @@ Samaa ajatusta voidaan hyödyntää myös yhden suuren tarralistan kanssa. Iso l
 
 Jos tarrat asetetaan ensin kaapeleiden merkintätaskuihin, ryhmittelyä voidaan tehdä samalla, kun tarroja laitetaan taskuihin. Esimerkiksi samaan loppunumeroon tai samaan numeroväliin kuuluvat tarrat voidaan pitää erillään jo ennen varsinaista kaapeleihin kiinnittämistä.
 
-Sovelluksessa on tällä hetkellä tuki sille, että tarrat voidaan tulostaa loppunumeron mukaan järjestettynä. Lisäksi yksittäinen tarralista voidaan tulostaa useana erillisenä nauhana loppunumeron perusteella.
+Sovelluksessa on tällä hetkellä tuki sille, että tarrat voidaan tulostaa loppunumeron mukaan järjestettynä. Lisäksi yksittäinen tarralista voidaan jakaa useaan erilliseen nauhaan loppunumeron perusteella. Tällöin samasta tarralistasta tulostuu erilliset nauhat tunnuksen viimeisen numeron mukaan. Esimerkiksi tunnukseen `3067` kuuluva tarra löytyy nauhasta `7`. Tämä tekee lajittelusta helposti hahmotettavaa, koska oikean nauhan näkee suoraan tunnuksen viimeisestä numerosta.
