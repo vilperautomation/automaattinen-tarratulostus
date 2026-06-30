@@ -86,12 +86,3 @@ Samaa ajatusta voidaan hyödyntää myös yhden suuren tarralistan kanssa. Iso l
 Jos tarrat asetetaan ensin kaapeleiden merkintätaskuihin, ryhmittelyä voidaan tehdä samalla, kun tarroja laitetaan taskuihin. Esimerkiksi samaan loppunumeroon tai samaan numeroväliin kuuluvat tarrat voidaan pitää erillään jo ennen varsinaista kaapeleihin kiinnittämistä.
 
 Sovelluksessa on tällä hetkellä tuki sille, että tarrat voidaan tulostaa loppunumeron mukaan järjestettynä. Lisäksi yksittäinen tarralista voidaan tulostaa useana erillisenä nauhana loppunumeron perusteella.
-
-## Mahdolliset seuraavat käyttötapaukset
-
-Projektissa on useita mahdollisia jatkokehityssuuntia:
-
-- **AI:lla luodut tarralistat kytkentäkuvista:** PC-prototyypissä on jo testattu tarradatan muodostamista tekoälyn avulla.
-- **Kytkentäkuvien yhdistäminen tarralistoihin:** sovellus voisi yhdistää tarralistat, johdotuskaaviot ja kytkentäkuvat puoliautomaattisesti.
-- **Punakynäkuvien tallennus:** sovellukseen voisi tallentaa kuvia työmaalla tehdyistä punakynämerkinnöistä.
-- **Kytkentäkuvien kevyt muokkaus:** sovellus voisi tukea yksinkertaisia merkintöjä tai korjauksia suoraan kytkentäkuviin.
