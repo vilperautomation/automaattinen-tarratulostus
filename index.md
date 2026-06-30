@@ -84,3 +84,10 @@ Samaa ajatusta voidaan hyödyntää myös yhden suuren tarralistan kanssa. Iso l
 Jos tarrat asetetaan ensin kaapeleiden merkintätaskuihin, ryhmittelyä voidaan tehdä samalla, kun tarroja laitetaan taskuihin. Esimerkiksi samaan loppunumeroon tai samaan numeroväliin kuuluvat tarrat voidaan pitää erillään jo ennen varsinaista kaapeleihin kiinnittämistä.
 
 Sovelluksessa on tuki sille, että tarrat voidaan tulostaa loppunumeron mukaan järjestettynä. Lisäksi yksittäinen tarralista voidaan jakaa useaan erilliseen nauhaan loppunumeron perusteella (Nauhat numeroittain-tulostus). Tällöin samasta tarralistasta tulostuu erilliset nauhat tunnuksen viimeisen numeron mukaan. Esimerkiksi tunnukseen `3067` kuuluva tarra löytyy nauhasta `7`. Tämä tekee lajittelusta helposti hahmotettavaa, koska oikean nauhan näkee suoraan tunnuksen viimeisestä numerosta.
+
+<p align="center">
+  <img src="assets/images/ordering_example.jpg" alt="Esimerkki tarrojen ryhmittelystä loppunumeron mukaan"
+       style="max-width:600px; width:100%; height:auto;">
+  <br>
+  <em>Esimerkki tarrojen ryhmittelystä loppunumeron mukaan.</em>
+</p>
