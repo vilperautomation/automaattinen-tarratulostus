@@ -23,7 +23,17 @@ Käytännössä tulostuksen aloittaminen voi olla hyvin nopeaa. Usein riittää,
 
 Sovellus tukee tarralistojen tuontia, muokkausta ja tulostamista eri käyttötapoihin. Alla oleva video esittelee tarkemmin sovelluksen toimintoja ja käyttöliittymää:
 
-[Video tähän tai upotus]
+<p align="center">
+  <iframe
+    width="360"
+    height="640"
+    src="https://www.youtube.com/embed/BXQNy7IAVTQ"
+    title="Tarratulostussovelluksen ominaisuudet ja käyttöliittymä"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+  </iframe>
+</p>
 
 ### Ominaisuudet
 
@@ -31,8 +41,8 @@ Sovellus tukee tarralistojen tuontia, muokkausta ja tulostamista eri käyttötap
 - **Tarralistojen muokkaus:** yksittäisiä rivejä ja listoja voidaan muokata ennen tulostamista.
 - **Nykyisen ja alkuperäisen datan vertailu:** käyttäjä voi nähdä, miten listan tiedot ovat muuttuneet alkuperäiseen tuontidataan verrattuna. Alkuperäiset tiedot voidaan tarvittaessa palauttaa joko yksittäiselle riville tai koko tarralistalle.
 - **Filtterit:** tarralistojen näkyvyyttä sovelluksessa voidaan rajata listan tilan ja käyttäjän määrittämien tunnisteiden perusteella.
-- **Tulostusasetukset:** tulostusasetuksissa voidaan muuttaa fonttia, fontin kokoa ja tarran pituutta sekä valita käytössä olevan tarranauhan leveys.
 - **Eri tulostusmoodit:** sovellus tukee tavallista tarratulostusta, kaapelilippuja ja nauhatulostusta. Kaapelilipussa sama tunnus tulostetaan tarraan kahteen kertaan, jolloin tarra voidaan kiinnittää kaapeliin lipun tapaan. Nauhatulostuksessa useat tarrat tulostetaan yhtenä pidempänä nauhana, jolloin esimerkiksi saman listan tarrat saadaan yhteen tulosteeseen. Lisäksi sovelluksessa on tuki Nauhat numeroittain -tulostukselle, jossa tarrat jaetaan erillisille nauhoille tunnuksen viimeisen numeron perusteella. Tätä käsitellään tarkemmin myöhemmin.
+- **Tulostusasetukset:** tulostusasetuksissa voidaan muuttaa fonttia, fontin kokoa ja tarran pituutta sekä valita käytössä olevan tarranauhan leveys.
 - **Kytkentäkuvat:** käyttöliittymässä on jo tuki kytkentäkuvien näyttämiselle testidatan avulla. Varsinainen tuotantokäyttö vaatisi vielä tavan yhdistää oikeat kytkentäkuvat oikeisiin tarralistoihin. Yksi mahdollinen ratkaisu olisi projektikansion tuonti, jossa sovellus lukee samasta kansiosta tarralistat ja kytkentäkuvat sekä yhdistää ne tiedostonimien perusteella. Tämä olisi teknisesti melko suoraviivaista, jos tiedostot on nimetty saman tunnuksen, esimerkiksi position tai keskuksen tunnuksen, mukaan.
 
 ### Suunnitteluperiaatteet
