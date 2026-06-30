@@ -86,8 +86,11 @@ Jos tarrat asetetaan ensin kaapeleiden merkintätaskuihin, ryhmittelyä voidaan 
 Sovelluksessa on tuki sille, että tarrat voidaan tulostaa loppunumeron mukaan järjestettynä. Lisäksi yksittäinen tarralista voidaan jakaa useaan erilliseen nauhaan loppunumeron perusteella (Nauhat numeroittain-tulostus). Tällöin samasta tarralistasta tulostuu erilliset nauhat tunnuksen viimeisen numeron mukaan. Esimerkiksi tunnukseen `3067` kuuluva tarra löytyy nauhasta `7`. Tämä tekee lajittelusta helposti hahmotettavaa, koska oikean nauhan näkee suoraan tunnuksen viimeisestä numerosta.
 
 <p align="center">
-  <img src="assets/images/ordering_example.jpg" alt="Esimerkki tarrojen ryhmittelystä loppunumeron mukaan"
-       style="max-width:600px; width:100%; height:auto;">
+  <a href="assets/images/ordering_example.jpg">
+    <img src="assets/images/ordering_example_crop.jpg"
+         alt="Esimerkki tarrojen ryhmittelystä loppunumeron mukaan"
+         style="max-width:700px; width:100%; height:auto;">
+  </a>
   <br>
-  <em>Esimerkki tarrojen ryhmittelystä loppunumeron mukaan.</em>
+  <em>Esimerkki tarrojen ryhmittelystä loppunumeron mukaan. Kuvaa klikkaamalla sen saa auki suurempana.</em>
 </p>
