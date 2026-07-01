@@ -6,7 +6,9 @@ Tavoitteena oli toteuttaa käytännön työmaatarpeeseen sopiva työkalu, jolla 
 
 ## Tarralistan haku ja tulostus
 
-Alla olevassa demossa näkyy sovelluksen tyypillisin käyttötapaus omissa työtehtävissäni: oikea tarralista haetaan sovelluksesta, tulostus käynnistetään ja tulostuksen edetessä valmiita tarroja voidaan jo asettaa kaapeleiden merkintätaskuihin tai tehdä muita työvaiheita.
+Alla olevassa demossa näkyy sovelluksen tyypillisin käyttötapaus omissa työtehtävissäni: oikea tarralista haetaan sovelluksesta, tulostus käynnistetään ja tulostuksen edetessä valmiita tarroja voidaan jo asettaa kaapelimerkintäkoteloihin tai jatkaa muita työvaiheita.
+
+
 
 Käytännössä tulostuksen aloittaminen voi olla hyvin nopeaa: usein riittää, että hakukenttään kirjoitetaan esimerkiksi listan tunnuksen loppunumerot ja painetaan tulostuspainiketta. Videolla eteneminen on tarkoituksella rauhallisempaa: alussa esitellään hieman sovelluksen ulkoasua ja työnkulku käydään läpi niin, että vaiheet erottuvat selvästi.
 <div style="max-width:360px; margin: 1rem auto;">
