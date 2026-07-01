@@ -13,7 +13,7 @@ Alla olevassa videossa näkyy sovelluksen tyypillisin käyttötapaus omissa työ
        alt="Kaapelimerkintäkotelo eli tarratasku"
        width="360">
   <br>
-  <em>Kaapelimerkintäkotelo eli tarratasku, johon valmis tarra asetetaan.</em>
+  <em>Tarratasku, johon valmis tarra asetetaan.</em>
 </p>
 
 Käytännössä tulostuksen aloittaminen voi olla hyvin nopeaa: usein riittää, että hakukenttään kirjoitetaan esimerkiksi listan tunnuksen loppunumerot ja painetaan tulostuspainiketta. Videolla eteneminen on tarkoituksella rauhallisempaa: alussa esitellään hieman sovelluksen ulkoasua ja työnkulku käydään läpi niin, että vaiheet erottuvat selvästi.
