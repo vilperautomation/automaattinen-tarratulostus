@@ -4,7 +4,7 @@ Tavoitteena oli toteuttaa käytännön työmaatarpeeseen sopiva työkalu, jolla 
 
 ## Tarralistan haku ja tulostus
 
-Alla olevassa demossa näkyy sovelluksen tyypillisin käyttötapaus omissa työtehtävissäni: oikea tarralista haetaan sovelluksesta, tulostus käynnistetään ja tulostuksen edetessä valmiita tarroja voidaan jo asettaa kaapeleiden merkintätaskuihin.
+Alla olevassa demossa näkyy sovelluksen tyypillisin käyttötapaus omissa työtehtävissäni: oikea tarralista haetaan sovelluksesta, tulostus käynnistetään ja tulostuksen edetessä valmiita tarroja voidaan jo asettaa kaapeleiden merkintätaskuihin tai tehdä muita työvaiheita.
 
 Käytännössä tulostuksen aloittaminen voi olla hyvin nopeaa. Usein riittää, että hakukenttään kirjoitetaan esimerkiksi listan tunnuksen loppunumerot ja painetaan tulostuspainiketta. Videolla työnkulku näytetään tavallista rauhallisemmin, jotta vaiheet ja sovelluksen ulkoasu erottuvat selvästi.
 
