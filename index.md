@@ -6,9 +6,15 @@ Tavoitteena oli toteuttaa käytännön työmaatarpeeseen sopiva työkalu, jolla 
 
 ## Tarralistan haku ja tulostus
 
-Alla olevassa demossa näkyy sovelluksen tyypillisin käyttötapaus omissa työtehtävissäni: oikea tarralista haetaan sovelluksesta, tulostus käynnistetään ja tulostuksen edetessä valmiita tarroja voidaan jo asettaa kaapelimerkintäkoteloihin tai jatkaa muita työvaiheita.
+Alla olevassa demossa näkyy sovelluksen tyypillisin käyttötapaus omissa työtehtävissäni: oikea tarralista haetaan sovelluksesta, tulostus käynnistetään ja tulostuksen edetessä valmiita tarroja voidaan jo asettaa kaapelimerkintäkoteloihin eli tarrataskuihin tai jatkaa muita työvaiheita.
 
-
+<p align="center">
+  <img src="assets/images/tarrastasku.png"
+       alt="Kaapelimerkintäkotelo eli tarratasku"
+       width="360">
+  <br>
+  <em>Kaapelimerkintäkotelo eli tarratasku, johon valmis tarra asetetaan.</em>
+</p>
 
 Käytännössä tulostuksen aloittaminen voi olla hyvin nopeaa: usein riittää, että hakukenttään kirjoitetaan esimerkiksi listan tunnuksen loppunumerot ja painetaan tulostuspainiketta. Videolla eteneminen on tarkoituksella rauhallisempaa: alussa esitellään hieman sovelluksen ulkoasua ja työnkulku käydään läpi niin, että vaiheet erottuvat selvästi.
 <div style="max-width:360px; margin: 1rem auto;">
@@ -106,12 +112,12 @@ Sovelluksessa on tuki sille, että tarrat voidaan tulostaa loppunumeron mukaan j
 
 ### Tarranauhan materiaalihukka
 
-Joillakin tarratulostimilla voi syntyä helposti huomaamatonta materiaalihukkaa silloin, kun tarrojen pitää olla tietyn mittaisia. Esimerkiksi kaapelitaskuun laitettavan tarran pitää mahtua siististi taskun sisään, joten tarralle halutaan usein kiinteä pituus, kuten noin 28 mm.
+Joillakin tarratulostimilla voi syntyä helposti huomaamatonta materiaalihukkaa silloin, kun tarrojen pitää olla tietyn mittaisia. Esimerkiksi tarrataskuun laitettavan tarran pitää mahtua siististi taskun sisään, joten tarralle halutaan usein kiinteä pituus, kuten noin 28 mm.
 
 Käytännön esimerkki tästä on DYMO Rhino 4200 -tarratulostin. Kun tarran pituudeksi asetettiin 28,5 mm, tulostin merkitsi oikean katkaisukohdan, mutta fyysisesti leikatun tarrapalan kokonaispituudeksi tuli noin 38 mm. Tämän takia kaapelitaskuun sopivaksi leikattavasta tarrasta jäi yli 9 mm ylimääräistä häntäosaa. Materiaalihukan lisäksi ylimääräinen häntäosa täytyy joko leikata pois tai taittaa tarran taakse, mikä lisää turhaa käsityötä jokaisen tarran kohdalla.
 
 Yksittäisessä tarrassa yli 9 mm hukka voi kuulostaa pieneltä, mutta toistuvassa käytössä määrä kasvaa nopeasti. Esimerkiksi jos yksi työntekijä tulostaa keskimäärin 30 tarraa päivässä ja jokaisessa tarrassa on yli 9 mm ylimääräistä nauhaa, hukkaa syntyy vähintään noin 0,27 metriä päivässä. Noin 20 työpäivässä tämä tarkoittaa vähintään 5,4 metriä tarranauhaa kuukaudessa, eli käytännössä lähes yhden kokonaisen 5,5 metrin teippikasetin. Vuodessa tämä voi tarkoittaa jo yli sadan euron turhia kuluja yhden työntekijän osalta.
 
-Tässä projektissa kehitetyllä sovelluksella yhden listan tarrat voidaan tulostaa kerralla esimerkiksi Brother PT-E720BT -tarratulostimella. Tällöin tarrat voidaan tuottaa automaattisesti oikean mittaisina kaapelitaskuja varten, eikä jokaisen tarran perään synny erillistä ylimääräistä hukkapalaa.
+Tässä projektissa kehitetyllä sovelluksella yhden listan tarrat voidaan tulostaa kerralla esimerkiksi Brother PT-E720BT -tarratulostimella. Tällöin tarrat voidaan tuottaa automaattisesti oikean mittaisina tarrataskuja varten, eikä jokaisen tarran perään synny erillistä ylimääräistä hukkapalaa.
 
 <link rel="stylesheet" href="assets/css/custom.css">
