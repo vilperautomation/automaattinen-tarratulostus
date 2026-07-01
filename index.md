@@ -72,7 +72,7 @@ Tästä syystä sovellukseen on kehitteillä undo- ja redo-toiminnot. Niiden avu
 
 ### Tarratulostimen valinta
 
-Projektissa käytetty Brother-tarratulostin on toiminut hyvin omasta sovelluksesta kutsuttuna. Muiden valmistajien tulostimien osalta toimivuus riippuisi siitä, tarjoavatko ne vastaavan tavan ohjata tulostusta omasta ohjelmasta.
+Projektissa käytetty Brother-tarratulostin on toiminut hyvin omasta sovelluksesta ohjattuna. Muiden valmistajien tulostimien osalta toimivuus riippuisi siitä, tarjoavatko ne vastaavan tavan ohjata tulostusta omasta ohjelmasta.
 
 Käytännön kannalta automaattinen leikkaus on tärkeä ominaisuus. Jos käyttäjän täytyy itse katkaista jokainen tarra, osa työkalun tuomasta hyödystä menetetään. Joissakin Brotherin tarratulostimissa on lisäksi puolileikkaustoiminto, jossa tarranauha leikataan osittain mutta taustapaperi jätetään yhtenäiseksi. Tämä voi tehdä tarranauhojen käsittelystä vielä sujuvampaa, koska useat tarrat pysyvät samassa nauhassa mutta ovat silti helposti irrotettavissa yksitellen.
 
