@@ -36,7 +36,7 @@ Sovellus tukee tarralistojen tuontia, muokkausta ja tulostamista eri käyttötap
   </iframe>
 </p>
 
-### Ominaisuudet
+### Keskeiset ominaisuudet
 
 - **Tiedostojen tuonti ja uusien tarralistojen luonti:** tarratietoja voidaan tuoda sovellukseen valmiista tiedostoista (esim. JSON ja Excel).
 - **Tarralistojen muokkaus:** yksittäisiä rivejä ja listoja voidaan muokata ennen tulostamista.
