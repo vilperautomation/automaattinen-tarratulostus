@@ -120,3 +120,5 @@ Käytännön esimerkki tästä on DYMO Rhino 4200 -tarratulostin. Kun tarran pit
 Yksittäisessä tarrassa yli 9 mm hukka voi kuulostaa pieneltä, mutta toistuvassa käytössä määrä kasvaa nopeasti. Esimerkiksi jos yksi työntekijä tulostaa keskimäärin 30 tarraa päivässä ja jokaisessa tarrassa on yli 9 mm ylimääräistä nauhaa, hukkaa syntyy vähintään noin 0,27 metriä päivässä. Noin 20 työpäivässä tämä tarkoittaa vähintään 5,4 metriä tarranauhaa kuukaudessa, eli käytännössä lähes yhden kokonaisen 5,5 metrin teippikasetin. Vuodessa tämä voi tarkoittaa jo yli sadan euron turhia kuluja yhden työntekijän osalta.
 
 Tässä projektissa kehitetyllä sovelluksella yhden listan tarrat voidaan tulostaa kerralla esimerkiksi Brother PT-E720BT -tarratulostimella. Tällöin tarrat voidaan tuottaa automaattisesti oikean mittaisina kaapelitaskuja varten, eikä jokaisen tarran perään synny erillistä ylimääräistä hukkapalaa.
+
+<link rel="stylesheet" href="assets/css/custom.css">
