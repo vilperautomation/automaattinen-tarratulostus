@@ -1,4 +1,4 @@
-# Automaattinen tarratulostus
+# Automaattinen tarratulostus kaapelimerkintöihin
 
 Kaapelitarrojen tulostaminen työmaalla voi olla hidasta ja melko puuduttavaa puuhaa, jos tunnukset naputellaan yksitellen tarratulostimeen. Tästä syntyi ajatus puhelin-/tablettisovelluksesta, jossa tietyn työvaiheen tarrat voidaan hakea listana ja lähettää tulostukseen yhdellä painalluksella.
 
