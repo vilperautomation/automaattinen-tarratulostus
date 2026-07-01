@@ -36,7 +36,7 @@ Sovellus tukee tarralistojen tuontia, muokkausta ja tulostamista eri käyttötap
   <iframe
     width="360"
     height="640"
-    src="https://www.youtube.com/embed/BXQNy7IAVTQ"
+    src="https://www.youtube.com/embed/cHIIfsOC13M"
     title="Tarratulostussovelluksen ominaisuudet ja käyttöliittymä"
     frameborder="0"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
