@@ -120,4 +120,12 @@ Yksittäisessä tarrassa yli 9 mm hukka voi kuulostaa pieneltä, mutta toistuvas
 
 Tässä projektissa kehitetyllä sovelluksella yhden listan tarrat voidaan tulostaa kerralla esimerkiksi Brother PT-E720BT -tarratulostimella. Tällöin tarrat voidaan tuottaa automaattisesti oikean mittaisina tarrataskuja varten, eikä jokaisen tarran perään synny erillistä ylimääräistä hukkapalaa.
 
+## Nykyinen tilanne ja jatkokehitysideat
+
+Kokeilu on vielä kesken, joten sovelluksen hyöty eri työtehtävissä vaatii lisää käytännön testausta. Omissa tämänhetkisissä työtehtävissä hyöty on kuitenkin ollut selvä: tarratulostus nopeutuu ja pitkien tunnusten näpyttely tarratulostimen omalla käyttöliittymällä jää pois.
+
+Yksi kiinnostava jatkokehityssuunta olisi tarradatan tarkistaminen ennen tulostusta. Sovellus voisi hyödyntää kovakoodattuja sääntöjä tai tekoälyä esimerkiksi epäilyttävien tunnusten, puuttuvien arvojen tai poikkeavien rivien havaitsemiseen.
+
+Joissakin työkohteissa kaapelitunnukset voivat sisältää tietoa, jota sovellus voisi hyödyntää. Esimerkiksi kaapelin tyyppi voi olla pääteltävissä suoraan tunnuksesta, tai sama tieto voi löytyä alkuperäisestä lähdedatasta, kuten kaapeliluettelosta. Tätä tietoa voisi käyttää esimerkiksi tarralistojen järjestämiseen kaapelityypin perusteella.
+
 <link rel="stylesheet" href="assets/css/custom.css">
