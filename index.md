@@ -90,7 +90,7 @@ Suurin hyöty syntyy tilanteissa, joissa tarrojen alkuosat vaihtelevat paljon. K
 
 Sama ongelma korostuu myös silloin, kun samalla kertaa halutaan tulostaa useita pieniä tarralistoja. Tällöin tunnukset vaihtuvat luonnostaan listasta toiseen, ja käsin naputtelu muuttuu helposti katkonaiseksi työksi.
 
-Sovelluksen kannalta tunnusten vaihtelu ei itsessään lisää työmäärää, jos tarratiedot saadaan tuotua ohjelmaan valmiina listana.
+Sovelluksen kannalta tunnusten vaihtelu ei itsessään lisää työmäärää, jos tarratiedot saadaan tuotua ohjelmaan automaattisesti.
 
 ### Tarrojen ryhmittely käytännössä
 
