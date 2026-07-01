@@ -69,7 +69,7 @@ Käytännön kannalta automaattinen leikkaus on tärkeä ominaisuus. Jos käytt�
 
 ### Tarralistojen muodostaminen
 
-Jotta sovelluksesta saadaan oikeaa ajansäästöä, tarratietojen täytyy tulla jostain valmiista lähteestä. Tällainen lähde voi olla esimerkiksi johdotuslista, kytkentäkaavio, Excel-tiedosto tai muu projektidokumentti.
+Jotta sovelluksesta saadaan oikeaa ajansäästöä, tarratietojen täytyy tulla jostain valmiista lähteestä. Tällainen lähde voi olla esimerkiksi kaapeliluettelo, kytkentäkaavio, Excel-tiedosto tai muu projektidokumentti.
 
 Käytännössä sovelluksen pitäisi pystyä tuomaan tällainen lähdedata ja muuntamaan se ohjelman ymmärtämäksi tarralistaksi mahdollisimman automaattisesti. Jos lähtödata on selkeässä muodossa, tämä voi onnistua suoraan Excel-tuonnilla tai muulla vastaavalla muunnoslogiikalla. Tällöin tarralistojen luonti on käyttäjän näkökulmasta helppoa ja vaivatonta.
 
