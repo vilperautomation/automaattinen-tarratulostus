@@ -1,3 +1,14 @@
+---
+layout: default
+title: ""
+---
+
+<style>
+.page-header {
+  display: none;
+}
+</style>
+
 Kaapelitarrojen tulostaminen työmaalla voi olla hidasta ja melko puuduttavaa puuhaa, jos tunnukset naputellaan yksitellen tarratulostimeen. Tästä syntyi ajatus puhelin-/tablettisovelluksesta, jossa tietyn työvaiheen tarrat voidaan hakea listana ja lähettää tulostukseen yhdellä painalluksella.
 
 Tavoitteena oli toteuttaa käytännön työmaatarpeeseen sopiva työkalu, jolla tarralistojen tulostaminen olisi nopeampaa ja vaivattomampaa kuin tunnusten naputtelu yksitellen tarratulostimen omalla käyttöliittymällä.
