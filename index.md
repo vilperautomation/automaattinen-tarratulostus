@@ -11,7 +11,7 @@ Alla olevassa videossa näkyy sovelluksen tyypillisin käyttötapaus omissa työ
 <p align="center">
   <img src="assets/images/tarrastasku.png"
        alt="Kaapelimerkintäkotelo eli tarratasku"
-       width="360">
+       width="500">
   <br>
   <em>Tarratasku, johon valmis tarra asetetaan.</em>
 </p>
