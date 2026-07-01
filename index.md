@@ -116,7 +116,7 @@ Joillakin tarratulostimilla voi syntyä helposti huomaamatonta materiaalihukkaa 
 
 Käytännön esimerkki tästä on DYMO Rhino 4200 -tarratulostin. Kun tarran pituudeksi asetettiin 28 mm, tulostin merkitsi oikean katkaisukohdan, mutta fyysisesti leikatun tarrapalan kokonaispituudeksi tuli noin 38 mm. Tämän takia kaapelitaskuun sopivaksi leikattavasta tarrasta jäi noin 10 mm ylimääräistä häntäosaa. Materiaalihukan lisäksi ylimääräinen häntäosa täytyy joko leikata pois tai taittaa tarran taakse, mikä lisää turhaa käsityötä jokaisen tarran kohdalla.
 
-Yksittäisessä tarrassa noin 10 mm hukka voi kuulostaa pieneltä, mutta toistuvassa käytössä määrä kasvaa nopeasti. Esimerkiksi jos yksi työntekijä tulostaa keskimäärin 30 tarraa päivässä ja jokaisessa tarrassa on noin 10 mm ylimääräistä nauhaa, hukkaa syntyy noin 0,3 metriä päivässä. Vuoden aikana tästä voi kertyä jo yli sadan euron turha kustannus yhden työntekijän osalta.
+Yksittäisessä tarrassa noin 10 mm hukka voi kuulostaa pieneltä, mutta toistuvassa käytössä määrä kasvaa nopeasti. Esimerkiksi jos yksi työntekijä tulostaa keskimäärin 30 tarraa päivässä ja jokaisessa tarrassa on noin 10 mm ylimääräistä nauhaa, hukkaa syntyy noin 0,3 metriä päivässä. Vuoden aikana tästä voi kertyä jo yli sadan euron lisäkustannus yhden työntekijän osalta.
 
 Tässä projektissa kehitetyllä sovelluksella yhden listan tarrat voidaan tulostaa kerralla esimerkiksi Brother PT-E720BT -tarratulostimella. Tällöin tarrat voidaan tuottaa automaattisesti oikean mittaisina tarrataskuja varten, eikä jokaisen tarran perään synny erillistä ylimääräistä hukkapalaa.
 
