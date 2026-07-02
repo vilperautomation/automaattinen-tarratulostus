@@ -128,6 +128,6 @@ Kokeilu on vielä kesken, joten sovelluksen hyöty eri työtehtävissä vaatii l
 
 Yksi kiinnostava jatkokehityssuunta olisi tarradatan tarkempi hyödyntäminen ennen tulostusta. Sovellus voisi tarkistaa dataa kovakoodattujen sääntöjen tai tekoälyn avulla ja nostaa esiin esimerkiksi epäilyttäviä tunnuksia, puuttuvia arvoja tai rivejä, jotka poikkeavat muun listan rakenteesta.
 
-Lisäksi sovellus voisi hyödyntää kaapelitunnuksiin tai alkuperäiseen lähdedataan sisältyvää tietoa tarralistojen järjestämisessä. Joissakin työkohteissa esimerkiksi kaapelin tyyppi voi olla pääteltävissä suoraan tunnuksesta, tai se voi löytyä kaapeliluettelosta. Tätä tietoa voisi käyttää esimerkiksi kaapelityypin mukaiseen ryhmittelyyn.
+Lisäksi sovellus voisi hyödyntää kaapelitunnuksista tai alkuperäisestä lähdedatasta löytyvää tietoa tarralistojen järjestämisessä. Joissakin työkohteissa esimerkiksi kaapelin tyyppi voi olla pääteltävissä suoraan tunnuksesta, tai se voi löytyä kaapeliluettelosta. Tätä tietoa voisi käyttää esimerkiksi kaapelityypin mukaiseen ryhmittelyyn.
 
 <link rel="stylesheet" href="assets/css/custom.css">
