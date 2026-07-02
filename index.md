@@ -1,6 +1,6 @@
 # Automaattinen kaapelitarrojen tulostus
 
-Kaapelitarrojen tulostaminen työmaalla voi olla hidasta ja melko puuduttavaa puuhaa, jos tunnukset naputellaan yksitellen tarratulostimeen. Tästä syntyi ajatus puhelin-/tablettisovelluksesta, jossa tiettyyn työvaiheeseen liittyvät tarrat voidaan hakea listana ja lähettää tulostukseen yhdellä painalluksella.
+Sähköalan työmailla kaapelit merkitään usein tunnustarroilla, ja näitä tarroja voi kertyä tulostettavaksi paljon. Jos tunnukset naputellaan yksitellen tarratulostimeen, kaapelitarrojen tulostamisesta voi tulla hidasta ja melko puuduttavaa puuhaa. Tästä syntyi ajatus puhelin-/tablettisovelluksesta, jossa tiettyyn työvaiheeseen liittyvät tarrat voidaan hakea listana ja lähettää tulostukseen yhdellä painalluksella.
 
 Tavoitteena oli toteuttaa käytännön työmaatarpeeseen sopiva työkalu, jolla tarralistojen tulostaminen olisi nopeampaa ja vaivattomampaa kuin tunnusten naputtelu yksitellen tarratulostimen omalla käyttöliittymällä.
 
