@@ -126,8 +126,8 @@ Tässä projektissa kehitetyllä sovelluksella yhden listan tarrat voidaan tulos
 
 Kokeilu on vielä kesken, joten sovelluksen hyöty eri työtehtävissä vaatii lisää käytännön testausta. Omissa tämänhetkisissä työtehtävissä hyöty on kuitenkin ollut selvä: tarratulostus nopeutuu ja pitkien tunnusten näpyttely tarratulostimen omalla käyttöliittymällä jää pois.
 
-Yksi kiinnostava jatkokehityssuunta olisi tarradatan tarkistaminen ennen tulostusta. Sovellus voisi hyödyntää kovakoodattuja sääntöjä tai tekoälyä esimerkiksi epäilyttävien tunnusten, puuttuvien arvojen tai poikkeavien rivien havaitsemiseen.
+Yksi kiinnostava jatkokehityssuunta olisi tarradatan tarkempi hyödyntäminen ennen tulostusta. Sovellus voisi tarkistaa dataa kovakoodattujen sääntöjen tai tekoälyn avulla ja nostaa esiin esimerkiksi epäilyttäviä tunnuksia, puuttuvia arvoja tai rivejä, jotka poikkeavat muun listan rakenteesta.
 
-Joissakin työkohteissa kaapelitunnukset voivat sisältää tietoa, jota sovellus voisi hyödyntää. Esimerkiksi kaapelin tyyppi voi olla pääteltävissä suoraan tunnuksesta, tai sama tieto voi löytyä alkuperäisestä lähdedatasta, kuten kaapeliluettelosta. Tätä tietoa voisi käyttää esimerkiksi tarralistojen järjestämiseen kaapelityypin perusteella.
+Lisäksi sovellus voisi hyödyntää kaapelitunnuksiin tai alkuperäiseen lähdedataan sisältyvää tietoa tarralistojen järjestämisessä. Joissakin työkohteissa esimerkiksi kaapelin tyyppi voi olla pääteltävissä suoraan tunnuksesta, tai se voi löytyä kaapeliluettelosta. Tätä tietoa voisi käyttää esimerkiksi kaapelityypin mukaiseen ryhmittelyyn.
 
 <link rel="stylesheet" href="assets/css/custom.css">
