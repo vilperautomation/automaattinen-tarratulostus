@@ -1,6 +1,8 @@
 # Automaattinen kaapelitarrojen tulostus
 
-Sähköalan työmailla kaapelit merkitään usein tunnustarroilla, ja näitä tarroja voi kertyä tulostettavaksi paljon. Jos tunnukset naputellaan yksitellen tarratulostimeen, kaapelitarrojen tulostamisesta voi tulla hidasta ja melko puuduttavaa puuhaa. Tästä syntyi ajatus puhelin-/tablettisovelluksesta, jossa tiettyyn työvaiheeseen liittyvät tarrat voidaan hakea listana ja lähettää tulostukseen yhdellä painalluksella.
+Sähköalan työmailla kaapelit merkitään usein tunnustarroilla, ja näitä tarroja voi kertyä tulostettavaksi paljon. Jos tunnukset naputellaan yksitellen tarratulostimeen, kaapelitarrojen tulostamisesta voi tulla hidasta ja melko puuduttavaa puuhaa. 
+
+Tästä syntyi ajatus puhelin-/tablettisovelluksesta, jossa tiettyyn työvaiheeseen liittyvät tarrat voidaan hakea listana ja lähettää tulostukseen yhdellä painalluksella.
 
 Tavoitteena oli toteuttaa käytännön työmaatarpeeseen sopiva työkalu, jolla tarralistojen tulostaminen olisi nopeampaa ja vaivattomampaa kuin tunnusten naputtelu yksitellen tarratulostimen omalla käyttöliittymällä.
 
@@ -78,11 +80,11 @@ Käytännön kannalta automaattinen leikkaus on tärkeä ominaisuus. Jos käytt�
 
 ### Tarralistojen muodostaminen
 
-Jotta sovelluksesta saadaan oikeaa ajansäästöä, tarratietojen täytyy tulla jostain valmiista lähteestä. Tällainen lähde voi olla esimerkiksi kaapeliluettelo, kytkentäkaavio, Excel-tiedosto tai muu projektidokumentti.
+Jotta sovelluksesta saadaan oikeaa ajansäästöä, tarratietojen täytyy tulla jostain valmiista lähteestä. Tällainen lähde voi olla esimerkiksi kaapeliluettelo, kytkentäkaavio tai muu projektidokumentti.
 
 Käytännössä ajansäästö syntyy siitä, että lähdedata voidaan tuoda ja muuntaa ohjelman ymmärtämäksi tarralistaksi mahdollisimman automaattisesti. Jos lähtödata on selkeässä muodossa, tämä voi onnistua suoraan Excel-tuonnilla tai muulla vastaavalla muunnoslogiikalla. Tällöin tarralistojen luonti on käyttäjän näkökulmasta helppoa ja vaivatonta.
 
-Toinen mahdollinen suunta on tekoälyyn tai kuvantunnistukseen perustuva tarradatan poiminta esimerkiksi kytkentäkuvista.
+Tekoälyä tai kuvantunnistusta voisi hyödyntää erityisesti silloin, kun tarradataa poimitaan esimerkiksi kytkentäkuvista.
 
 ### Milloin työkalusta on eniten hyötyä?
 
